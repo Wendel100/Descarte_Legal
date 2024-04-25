@@ -20,4 +20,7 @@ body{background-color: rgb(8, 226, 204);}
         font-size: 30px;
         text-align: center;
         color: aliceblue;
+    }img{
+        width: 400px;
+        height: 500px;
     }
